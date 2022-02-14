@@ -1,0 +1,15 @@
+Procedural : -
+        * specifes a series of well structured steps adn procedures to compose a program.
+        * contains a systemetic order of statements, functions and commands to compelete a task.
+    
+Functional : - 
+        * Writing a program only in pure functions. Example --> never variables but only create new ones as an output.
+        * Used in situations where we have to perform lots of different operations one the same set of data, like Machine Learning.
+        * First class functions.
+
+Object-oriented : -
+        * Reolves around objects.
+        * Code + Data = Object
+        * Developed to make it easier to develop, debug, reuse and maintain software.
+ 
+  

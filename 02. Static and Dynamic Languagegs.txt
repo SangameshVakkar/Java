@@ -1,0 +1,21 @@
+Static : -
+        * Perform type checkinig at compile time.
+        * Erroes will show ar compile time.
+        * Declare datatype before you use it.
+        * More control.
+            Ex:  int a = 10;
+            * In above given example, the compiler checks the given variable data type in satatic language.
+
+
+Dynamic : -
+        * Perform type checking at runtime.
+        * Error might not show till program runs.
+        * No need to declare datatype of variables.
+        * Saves time in writing but might give error at runtime.
+            Ex:  a = 10
+            * In above given example, the dynamic language checks the datatype is runtime.
+
+
+Stack and Heap Memory : -
+
+
