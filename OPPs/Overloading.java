@@ -17,7 +17,6 @@ class Chaatr {
     public void printInfo(String name, int age){                //overloaing with the same method name
         System.out.println("Name : "+name+" "+"Age : "+age);
     }
-
 }
 
 public class Overloading {

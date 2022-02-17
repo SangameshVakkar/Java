@@ -9,7 +9,7 @@ Packages :
 Access modifiers :
         * object-oriented programming that is used to set the accessibility of classes, constructors, methods, and other members of Java.
     Types of Access Modifiers :
-        1. Private      : the access level of this modifier is within class, it cannot be accessed out side the class.
+        1. Private      : the access level of this modifier is within class, it cannot be accessed out side the class. We can access this data in "getters & setters" methods
         2. Default      : this modifier can be accessed within the packages, if we do not specify the class as "default", it considered as default class.
         3. Protected    : this modifier access level is both within and outside the packages through child class. Without the child class it is not accessible.
         4. Public       : this modifier acces level is everywhere. It can be accessed within and outside classes and packages.
