@@ -2,7 +2,7 @@ package InterviewPrograms;
 
 import java.util.Scanner;
 
-public class Palindrome {
+public class P02_Palindrome {
     public static void main(String[] args) {
         String str= "GADAG";
         String str2;

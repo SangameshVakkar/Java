@@ -2,7 +2,7 @@ package InterviewPrograms;
 
 import java.util.Scanner;
 
-public class ReverseString {
+public class P01_ReverseString {
     public static void main(String[] args) {
         LogicOne();
         System.out.println("\n");

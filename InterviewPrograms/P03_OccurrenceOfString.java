@@ -2,7 +2,7 @@ package InterviewPrograms;
 
 import java.util.Scanner;
 
-public class OccurrenceOfString {
+public class P03_OccurrenceOfString {
     public static void main(String[] args) {
         methodOne();
     }
